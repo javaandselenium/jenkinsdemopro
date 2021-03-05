@@ -4,10 +4,10 @@ import org.testng.Reporter;
 import org.testng.annotations.Test;
 
 
-public class Test323 {
+public class Test324 {
 	@Test
 	public void demo() {
-		Reporter.log("hello appium",true);
+		Reporter.log("hello selenium",true);
 	}
 
 }
